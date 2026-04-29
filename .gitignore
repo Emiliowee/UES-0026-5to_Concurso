@@ -1,0 +1,25 @@
+# Dependencias y builds
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+.env.*.local
+
+# IDE y OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+npm-debug.log*
+.turbo/
